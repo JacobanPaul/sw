@@ -1,0 +1,2685 @@
+0	
+
+MONSTER 	"Acasis"
+unit_master_id_awakened	11913
+skills(3)
+
+0	
+
+Skill ID	2803
+
+SKILL NAME	"Windy Cut"
+	
+
+1	
+
+Skill ID	2808
+
+SKILL NAME	"Twister"
+	
+
+2	
+
+Skill ID	2818
+
+SKILL NAME	"Force Field"
+	
+
+1	
+
+MONSTER 	"Adrian"
+unit_master_id_awakened	20912
+skills(3)
+
+0	
+
+Skill ID	11717
+
+SKILL NAME	"Strafe"
+	
+
+1	
+
+Skill ID	11707
+
+SKILL NAME	"Arrow Storm"
+	
+
+2	
+
+Skill ID	11712
+
+SKILL NAME	"Path of the Forest"
+	
+
+2	
+
+MONSTER 	"Aegir"
+unit_master_id_awakened	18811
+skills(3)
+
+0	
+
+Skill ID	9601
+
+SKILL NAME	"Penalty"
+	
+
+1	
+
+Skill ID	9606
+
+SKILL NAME	"Wrathful Attack"
+	
+
+2	
+
+Skill ID	9611
+
+SKILL NAME	"Confiscate"
+	
+
+3	
+
+MONSTER 	"Aeilene"
+unit_master_id_awakened	10113
+skills(3)
+
+0	
+
+Skill ID	1103
+
+SKILL NAME	"Gust"
+	
+
+1	
+
+Skill ID	1108
+
+SKILL NAME	"Purify"
+	
+
+2	
+
+Skill ID	1113
+
+SKILL NAME	"Spirit's Wrath"
+	
+
+4	
+
+MONSTER 	"Ahman"
+unit_master_id_awakened	13714
+skills(3)
+
+0	
+
+Skill ID	5904
+
+SKILL NAME	"Uppercut"
+	
+
+1	
+
+Skill ID	5909
+
+SKILL NAME	"Strike"
+	
+
+2	
+
+Skill ID	5914
+
+SKILL NAME	"Crushing Power (Passive)"
+	
+
+5	
+
+MONSTER 	"Akhamamir"
+unit_master_id_awakened	19213
+skills(3)
+
+0	
+
+Skill ID	10003
+
+SKILL NAME	"Mega Smash"
+	
+
+1	
+
+Skill ID	10008
+
+SKILL NAME	"Super Crush"
+	
+
+2	
+
+Skill ID	10013
+
+SKILL NAME	"Mach Crush"
+	
+
+6	
+
+MONSTER 	"Akia"
+unit_master_id_awakened	13312
+skills(3)
+
+0	
+
+Skill ID	5302
+
+SKILL NAME	"Dreamy Invitation"
+	
+
+1	
+
+Skill ID	5307
+
+SKILL NAME	"Twisted Joy"
+	
+
+2	
+
+Skill ID	5312
+
+SKILL NAME	"Brutal End"
+	
+
+7	
+
+MONSTER 	"Akroma"
+unit_master_id_awakened	13814
+skills(3)
+
+0	
+
+Skill ID	6004
+
+SKILL NAME	"Sword of Promise"
+	
+
+1	
+
+Skill ID	6009
+
+SKILL NAME	"Seal of Light"
+	
+
+2	
+
+Skill ID	6014
+
+SKILL NAME	"God's Shield (Passive)"
+	
+
+8	
+
+MONSTER 	"Alexandra"
+unit_master_id_awakened	21515
+skills(4)
+
+0	
+
+Skill ID	12325
+
+SKILL NAME	"Dark Horn"
+	
+
+1	
+
+Skill ID	12330
+
+SKILL NAME	"Nature's Protection"
+	
+
+2	
+
+Skill ID	12315
+
+SKILL NAME	"Other Side of the Moon (Passive)"
+	
+
+3	
+
+Skill ID	12320
+
+SKILL NAME	"Transformation: Human Form"
+	
+
+9	
+
+MONSTER 	"Alexandra"
+unit_master_id_awakened	21615
+skills(4)
+
+0	
+
+Skill ID	12405
+
+SKILL NAME	"Dark Horn"
+	
+
+1	
+
+Skill ID	12410
+
+SKILL NAME	"Moonlight Flash"
+	
+
+2	
+
+Skill ID	12415
+
+SKILL NAME	"Soaring Wings (Passive)"
+	
+
+3	
+
+Skill ID	12420
+
+SKILL NAME	"Transformation: Mystical Creature"
+	
+
+10	
+
+MONSTER 	"Alicia"
+unit_master_id_awakened	18911
+skills(3)
+
+0	
+
+Skill ID	9701
+
+SKILL NAME	"Essence Explosion"
+	
+
+1	
+
+Skill ID	9706
+
+SKILL NAME	"Storm of Midnight"
+	
+
+2	
+
+Skill ID	9711
+
+SKILL NAME	"Frost Rush"
+	
+
+11	
+
+MONSTER 	"Allen"
+unit_master_id_awakened	15211
+skills(3)
+
+0	
+
+Skill ID	6601
+
+SKILL NAME	"Slash Rocks"
+	
+
+1	
+
+Skill ID	6606
+
+SKILL NAME	"Taunting Strike"
+	
+
+2	
+
+Skill ID	6611
+
+SKILL NAME	"Strong Will (Passive)"
+	
+
+12	
+
+MONSTER 	"Amarna"
+unit_master_id_awakened	20414
+skills(3)
+
+0	
+
+Skill ID	11219
+
+SKILL NAME	"Pierce Soul"
+	
+
+1	
+
+Skill ID	11209
+
+SKILL NAME	"Brand of Hell"
+	
+
+2	
+
+Skill ID	11214
+
+SKILL NAME	"Secret of Eternal Life"
+	
+
+13	
+
+MONSTER 	"Amduat"
+unit_master_id_awakened	20615
+skills(3)
+
+0	
+
+Skill ID	11405
+
+SKILL NAME	"Overpower"
+	
+
+1	
+
+Skill ID	11410
+
+SKILL NAME	"Desert Wind"
+	
+
+2	
+
+Skill ID	11415
+
+SKILL NAME	"Tip of the Spear(Passive)"
+	
+
+14	
+
+MONSTER 	"Amelia"
+unit_master_id_awakened	21611
+skills(4)
+
+0	
+
+Skill ID	12401
+
+SKILL NAME	"Ice Horn"
+	
+
+1	
+
+Skill ID	12406
+
+SKILL NAME	"Purifying Wave"
+	
+
+2	
+
+Skill ID	12411
+
+SKILL NAME	"Blessed Wings (Passive)"
+	
+
+3	
+
+Skill ID	12416
+
+SKILL NAME	"Transformation: Mystical Creature"
+	
+
+15	
+
+MONSTER 	"Amelia"
+unit_master_id_awakened	21511
+skills(4)
+
+0	
+
+Skill ID	12321
+
+SKILL NAME	"Ice Horn"
+	
+
+1	
+
+Skill ID	12326
+
+SKILL NAME	"Fierce Charge"
+	
+
+2	
+
+Skill ID	12311
+
+SKILL NAME	"Protection Wings (Passive)"
+	
+
+3	
+
+Skill ID	12316
+
+SKILL NAME	"Transformation: Human Form"
+	
+
+16	
+
+MONSTER 	"Anavel"
+unit_master_id_awakened	16111
+skills(3)
+
+0	
+
+Skill ID	7201
+
+SKILL NAME	"Help Me, Teddy"
+	
+
+1	
+
+Skill ID	7206
+
+SKILL NAME	"Girl's Prayer"
+	
+
+2	
+
+Skill ID	7211
+
+SKILL NAME	"Water Guardian Angel"
+	
+
+17	
+
+MONSTER 	"Anduril"
+unit_master_id_awakened	11713
+skills(3)
+
+0	
+
+Skill ID	2703
+
+SKILL NAME	"Thunder Smash"
+	
+
+1	
+
+Skill ID	2708
+
+SKILL NAME	"Hell Lightning"
+	
+
+2	
+
+Skill ID	2713
+
+SKILL NAME	"Hell Blow"
+	
+
+18	
+
+MONSTER 	"Anne"
+unit_master_id_awakened	19312
+skills(3)
+
+0	
+
+Skill ID	10122
+
+SKILL NAME	"Cross Fire"
+	
+
+1	
+
+Skill ID	10127
+
+SKILL NAME	"Defeat Wild Dog"
+	
+
+2	
+
+Skill ID	10132
+
+SKILL NAME	"Explosive Bullet"
+	
+
+19	
+
+MONSTER 	"Antares"
+unit_master_id_awakened	16312
+skills(3)
+
+0	
+
+Skill ID	7502
+
+SKILL NAME	"Soul Summoning"
+	
+
+1	
+
+Skill ID	7507
+
+SKILL NAME	"Sinkhole"
+	
+
+2	
+
+Skill ID	7512
+
+SKILL NAME	"Transcendance (Passive)"
+	
+
+20	
+
+MONSTER 	"Aqcus"
+unit_master_id_awakened	19511
+skills(3)
+
+0	
+
+Skill ID	10301
+
+SKILL NAME	"Lunging Wave"
+	
+
+1	
+
+Skill ID	10306
+
+SKILL NAME	"Drive"
+	
+
+2	
+
+Skill ID	10311
+
+SKILL NAME	"The Smell of Blood(Passive)"
+	
+
+21	
+
+MONSTER 	"Aquila"
+unit_master_id_awakened	18013
+skills(3)
+
+0	
+
+Skill ID	8803
+
+SKILL NAME	"Run Run"
+	
+
+1	
+
+Skill ID	8808
+
+SKILL NAME	"Fever Time"
+	
+
+2	
+
+Skill ID	8813
+
+SKILL NAME	"Unexpected Exposure"
+	
+
+22	
+
+MONSTER 	"Arang"
+unit_master_id_awakened	11213
+skills(3)
+
+0	
+
+Skill ID	2218
+
+SKILL NAME	"Will-o'-the-Wisp"
+	
+
+1	
+
+Skill ID	2208
+
+SKILL NAME	"Soul Snatcher"
+	
+
+2	
+
+Skill ID	2213
+
+SKILL NAME	"Sweet Talk"
+	
+
+23	
+
+MONSTER 	"Ardella"
+unit_master_id_awakened	15413
+skills(3)
+
+0	
+
+Skill ID	6803
+
+SKILL NAME	"Magic Arrow"
+	
+
+1	
+
+Skill ID	6808
+
+SKILL NAME	"Light Arrow"
+	
+
+2	
+
+Skill ID	6813
+
+SKILL NAME	"Keenness (Passive)"
+	
+
+24	
+
+MONSTER 	"Argen"
+unit_master_id_awakened	14713
+skills(3)
+
+0	
+
+Skill ID	6503
+
+SKILL NAME	"Vampire Bat"
+	
+
+1	
+
+Skill ID	6508
+
+SKILL NAME	"Weaken"
+	
+
+2	
+
+Skill ID	6513
+
+SKILL NAME	"Death Blow"
+	
+
+25	
+
+MONSTER 	"Aria"
+unit_master_id_awakened	13314
+skills(3)
+
+0	
+
+Skill ID	5304
+
+SKILL NAME	"Dreamy Invitation"
+	
+
+1	
+
+Skill ID	5309
+
+SKILL NAME	"Strike of Rejection"
+	
+
+2	
+
+Skill ID	5314
+
+SKILL NAME	"Curse of White Night"
+	
+
+26	
+
+MONSTER 	"Ariel"
+unit_master_id_awakened	17011
+skills(3)
+
+0	
+
+Skill ID	6301
+
+SKILL NAME	"Heavenly Sword"
+	
+
+1	
+
+Skill ID	6306
+
+SKILL NAME	"Archangel's Blessing"
+	
+
+2	
+
+Skill ID	6311
+
+SKILL NAME	"Holy Water"
+	
+
+27	
+
+MONSTER 	"Arkajan"
+unit_master_id_awakened	10414
+skills(3)
+
+0	
+
+Skill ID	1404
+
+SKILL NAME	"Slash Hook"
+	
+
+1	
+
+Skill ID	1409
+
+SKILL NAME	"Heavy Slash"
+	
+
+2	
+
+Skill ID	1414
+
+SKILL NAME	"Silent Rage(Passive)"
+	
+
+28	
+
+MONSTER 	"Arnold"
+unit_master_id_awakened	16212
+skills(3)
+
+0	
+
+Skill ID	7402
+
+SKILL NAME	"Deadly Blow"
+	
+
+1	
+
+Skill ID	7407
+
+SKILL NAME	"Deadly Wave"
+	
+
+2	
+
+Skill ID	7412
+
+SKILL NAME	"Extortion"
+	
+
+29	
+
+MONSTER 	"Artamiel"
+unit_master_id_awakened	17014
+skills(3)
+
+0	
+
+Skill ID	6304
+
+SKILL NAME	"Heavenly Sword"
+	
+
+1	
+
+Skill ID	6309
+
+SKILL NAME	"Archangel's Blessing"
+	
+
+2	
+
+Skill ID	6314
+
+SKILL NAME	"Judge (Passive)"
+	
+
+30	
+
+MONSTER 	"Aschubel"
+unit_master_id_awakened	11815
+skills(3)
+
+0	
+
+Skill ID	3005
+
+SKILL NAME	"Spirit Throw"
+	
+
+1	
+
+Skill ID	3019
+
+SKILL NAME	"Turbulence"
+	
+
+2	
+
+Skill ID	3015
+
+SKILL NAME	"Nightfall"
+	
+
+31	
+
+MONSTER 	"Asima"
+unit_master_id_awakened	17914
+skills(3)
+
+0	
+
+Skill ID	9004
+
+SKILL NAME	"Wound"
+	
+
+1	
+
+Skill ID	9009
+
+SKILL NAME	"Gouge"
+	
+
+2	
+
+Skill ID	9014
+
+SKILL NAME	"Crumble"
+	
+
+32	
+
+MONSTER 	"Astar"
+unit_master_id_awakened	19812
+skills(3)
+
+0	
+
+Skill ID	10602
+
+SKILL NAME	"Blade Surge"
+	
+
+1	
+
+Skill ID	10607
+
+SKILL NAME	"Magic Surge"
+	
+
+2	
+
+Skill ID	10612
+
+SKILL NAME	"Vengeful Fire(Passive)"
+	
+
+33	
+
+MONSTER 	"Atenai"
+unit_master_id_awakened	11612
+skills(3)
+
+0	
+
+Skill ID	2617
+
+SKILL NAME	"Fire Drop"
+	
+
+1	
+
+Skill ID	2607
+
+SKILL NAME	"Fire Frenzy"
+	
+
+2	
+
+Skill ID	2612
+
+SKILL NAME	"Share Life"
+	
+
+34	
+
+MONSTER 	"Avaris"
+unit_master_id_awakened	20411
+skills(3)
+
+0	
+
+Skill ID	11216
+
+SKILL NAME	"Pierce Soul"
+	
+
+1	
+
+Skill ID	11206
+
+SKILL NAME	"Brand of Hell"
+	
+
+2	
+
+Skill ID	11211
+
+SKILL NAME	"Soul Destroyer(Passive)"
+	
+
+35	
+
+MONSTER 	"Baekdu"
+unit_master_id_awakened	18514
+skills(3)
+
+0	
+
+Skill ID	9304
+
+SKILL NAME	"Aim Body"
+	
+
+1	
+
+Skill ID	9309
+
+SKILL NAME	"Aim Weak Spot"
+	
+
+2	
+
+Skill ID	9314
+
+SKILL NAME	"Silver Light"
+	
+
+36	
+
+MONSTER 	"Bailey"
+unit_master_id_awakened	22014
+skills(3)
+
+0	
+
+Skill ID	12704
+
+SKILL NAME	"Returning Boomerang"
+	
+
+1	
+
+Skill ID	12709
+
+SKILL NAME	"Spirit Focus"
+	
+
+2	
+
+Skill ID	12714
+
+SKILL NAME	"Lightning Flash"
+	
+
+37	
+
+MONSTER 	"Baretta"
+unit_master_id_awakened	11812
+skills(3)
+
+0	
+
+Skill ID	3002
+
+SKILL NAME	"Spirit Throw"
+	
+
+1	
+
+Skill ID	3007
+
+SKILL NAME	"Turbulence"
+	
+
+2	
+
+Skill ID	3017
+
+SKILL NAME	"Phoenix's Fury"
+	
+
+38	
+
+MONSTER 	"Barque"
+unit_master_id_awakened	19413
+skills(3)
+
+0	
+
+Skill ID	10213
+
+SKILL NAME	"Backspin Slash"
+	
+
+1	
+
+Skill ID	10218
+
+SKILL NAME	"Pirate's Strike"
+	
+
+2	
+
+Skill ID	10223
+
+SKILL NAME	"Shoot n' Slash"
+	
+
+39	
+
+MONSTER 	"Basalt"
+unit_master_id_awakened	19015
+skills(3)
+
+0	
+
+Skill ID	9805
+
+SKILL NAME	"Battle Charge"
+	
+
+1	
+
+Skill ID	9810
+
+SKILL NAME	"Polar Roar"
+	
+
+2	
+
+Skill ID	9815
+
+SKILL NAME	"Hell Stomp"
+	
+
+40	
+
+MONSTER 	"Bastet"
+unit_master_id_awakened	20511
+skills(3)
+
+0	
+
+Skill ID	11301
+
+SKILL NAME	"Touch of Seduction"
+	
+
+1	
+
+Skill ID	11306
+
+SKILL NAME	"Curse of the Beautiful"
+	
+
+2	
+
+Skill ID	11311
+
+SKILL NAME	"Oasis's Blessing"
+	
+
+41	
+
+MONSTER 	"Belita"
+unit_master_id_awakened	21915
+skills(3)
+
+0	
+
+Skill ID	12605
+
+SKILL NAME	"Crescent Moon Slash"
+	
+
+1	
+
+Skill ID	12610
+
+SKILL NAME	"Spirit Focus"
+	
+
+2	
+
+Skill ID	12615
+
+SKILL NAME	"Moonlight Blow"
+	
+
+42	
+
+MONSTER 	"Belladeon"
+unit_master_id_awakened	11014
+skills(3)
+
+0	
+
+Skill ID	2017
+
+SKILL NAME	"Scratch"
+	
+
+1	
+
+Skill ID	2009
+
+SKILL NAME	"Seize"
+	
+
+2	
+
+Skill ID	2014
+
+SKILL NAME	"Mobilize"
+	
+
+43	
+
+MONSTER 	"Bering"
+unit_master_id_awakened	18115
+skills(3)
+
+0	
+
+Skill ID	8905
+
+SKILL NAME	"Firecracker"
+	
+
+1	
+
+Skill ID	8910
+
+SKILL NAME	"Multi-Firecracker"
+	
+
+2	
+
+Skill ID	8915
+
+SKILL NAME	"Magic Exterminator"
+	
+
+44	
+
+MONSTER 	"Bernard"
+unit_master_id_awakened	11513
+skills(3)
+
+0	
+
+Skill ID	2503
+
+SKILL NAME	"Snatch"
+	
+
+1	
+
+Skill ID	2508
+
+SKILL NAME	"Body Slam"
+	
+
+2	
+
+Skill ID	2513
+
+SKILL NAME	"Tailwind"
+	
+
+45	
+
+MONSTER 	"Beth"
+unit_master_id_awakened	17911
+skills(3)
+
+0	
+
+Skill ID	9001
+
+SKILL NAME	"Wound"
+	
+
+1	
+
+Skill ID	9006
+
+SKILL NAME	"Gouge"
+	
+
+2	
+
+Skill ID	9011
+
+SKILL NAME	"Eternal Scar"
+	
+
+46	
+
+MONSTER 	"Bethony"
+unit_master_id_awakened	15415
+skills(3)
+
+0	
+
+Skill ID	6805
+
+SKILL NAME	"Magic Arrow"
+	
+
+1	
+
+Skill ID	6810
+
+SKILL NAME	"Wedge Arrow"
+	
+
+2	
+
+Skill ID	6815
+
+SKILL NAME	"Shadow Arrow"
+	
+
+47	
+
+MONSTER 	"Betta"
+unit_master_id_awakened	19615
+skills(3)
+
+0	
+
+Skill ID	10405
+
+SKILL NAME	"Mana Bubble"
+	
+
+1	
+
+Skill ID	10410
+
+SKILL NAME	"Grant Life"
+	
+
+2	
+
+Skill ID	10415
+
+SKILL NAME	"Serenity"
+	
+
+48	
+
+MONSTER 	"Blue Angelmon"
+unit_master_id_awakened	14211
+skills(2)
+
+0	
+
+Skill ID	99001
+
+SKILL NAME	"Special Ingredient (Passive)"
+	
+
+1	
+
+Skill ID	99002
+
+SKILL NAME	"Best Ingredient (Passive)"
+	
+
+49	
+
+MONSTER 	"Blue King Angelmon"
+unit_master_id_awakened	18211
+skills(2)
+
+0	
+
+Skill ID	99005
+
+SKILL NAME	"Special Material (Passive)"
+	
+
+1	
+
+Skill ID	99006
+
+SKILL NAME	"Best Ingredient (Passive)"
+	
+
+50	
+
+MONSTER 	"Brandia"
+unit_master_id_awakened	18912
+skills(3)
+
+0	
+
+Skill ID	9702
+
+SKILL NAME	"Essence Explosion"
+	
+
+1	
+
+Skill ID	9707
+
+SKILL NAME	"Aura of Dawn"
+	
+
+2	
+
+Skill ID	9712
+
+SKILL NAME	"Touch of Mercy"
+	
+
+51	
+
+MONSTER 	"Bremis"
+unit_master_id_awakened	10812
+skills(3)
+
+0	
+
+Skill ID	1702
+
+SKILL NAME	"Fiery Claw"
+	
+
+1	
+
+Skill ID	1707
+
+SKILL NAME	"Element Explosion"
+	
+
+2	
+
+Skill ID	1712
+
+SKILL NAME	"Deathblow (Passive)"
+	
+
+52	
+
+MONSTER 	"Briand"
+unit_master_id_awakened	16213
+skills(3)
+
+0	
+
+Skill ID	7403
+
+SKILL NAME	"Deadly Blow"
+	
+
+1	
+
+Skill ID	7408
+
+SKILL NAME	"Deadly Wave"
+	
+
+2	
+
+Skill ID	7413
+
+SKILL NAME	"Supply"
+	
+
+53	
+
+MONSTER 	"Brig"
+unit_master_id_awakened	19414
+skills(3)
+
+0	
+
+Skill ID	10214
+
+SKILL NAME	"Backspin Slash"
+	
+
+1	
+
+Skill ID	10219
+
+SKILL NAME	"Pirate's Strike"
+	
+
+2	
+
+Skill ID	10224
+
+SKILL NAME	"Disarm"
+	
+
+54	
+
+MONSTER 	"Bulldozer"
+unit_master_id_awakened	20812
+skills(3)
+
+0	
+
+Skill ID	11602
+
+SKILL NAME	"Hammer Punch"
+	
+
+1	
+
+Skill ID	11607
+
+SKILL NAME	"Body Press"
+	
+
+2	
+
+Skill ID	11612
+
+SKILL NAME	"Full Power Punch"
+	
+
+55	
+
+MONSTER 	"Burentau"
+unit_master_id_awakened	17712
+skills(3)
+
+0	
+
+Skill ID	8602
+
+SKILL NAME	"Headbutt"
+	
+
+1	
+
+Skill ID	8607
+
+SKILL NAME	"Chop"
+	
+
+2	
+
+Skill ID	8612
+
+SKILL NAME	"Push"
+	
+
+56	
+
+MONSTER 	"Cadiz"
+unit_master_id_awakened	14715
+skills(3)
+
+0	
+
+Skill ID	6505
+
+SKILL NAME	"Vampire Bat"
+	
+
+1	
+
+Skill ID	6510
+
+SKILL NAME	"Weaken"
+	
+
+2	
+
+Skill ID	6515
+
+SKILL NAME	"Feast of Blood (Passive)"
+	
+
+57	
+
+MONSTER 	"Cahule"
+unit_master_id_awakened	10912
+skills(3)
+
+0	
+
+Skill ID	1902
+
+SKILL NAME	"Onslaught"
+	
+
+1	
+
+Skill ID	1907
+
+SKILL NAME	"Fire Ball"
+	
+
+2	
+
+Skill ID	1912
+
+SKILL NAME	"Rapidity"
+	
+
+58	
+
+MONSTER 	"Calicus"
+unit_master_id_awakened	19515
+skills(3)
+
+0	
+
+Skill ID	10305
+
+SKILL NAME	"Lunging Wave"
+	
+
+1	
+
+Skill ID	10310
+
+SKILL NAME	"Incapacitate"
+	
+
+2	
+
+Skill ID	10315
+
+SKILL NAME	"Chow Down"
+	
+
+59	
+
+MONSTER 	"Camaryn"
+unit_master_id_awakened	10315
+skills(3)
+
+0	
+
+Skill ID	1305
+
+SKILL NAME	"Spirit Ball"
+	
+
+1	
+
+Skill ID	1310
+
+SKILL NAME	"Decelerate"
+	
+
+2	
+
+Skill ID	1315
+
+SKILL NAME	"Absorb Energy"
+	
+
+60	
+
+MONSTER 	"Camilla"
+unit_master_id_awakened	13811
+skills(3)
+
+0	
+
+Skill ID	6001
+
+SKILL NAME	"Sword of Promise"
+	
+
+1	
+
+Skill ID	6006
+
+SKILL NAME	"Seal of Water"
+	
+
+2	
+
+Skill ID	6011
+
+SKILL NAME	"First Aid (Passive)"
+	
+
+61	
+
+MONSTER 	"Camules"
+unit_master_id_awakened	10815
+skills(3)
+
+0	
+
+Skill ID	1705
+
+SKILL NAME	"Dark Claw"
+	
+
+1	
+
+Skill ID	1710
+
+SKILL NAME	"Solid Blades"
+	
+
+2	
+
+Skill ID	1715
+
+SKILL NAME	"Power of Darkness"
+	
+
+62	
+
+MONSTER 	"Carrack"
+unit_master_id_awakened	19412
+skills(3)
+
+0	
+
+Skill ID	10212
+
+SKILL NAME	"Backspin Slash"
+	
+
+1	
+
+Skill ID	10217
+
+SKILL NAME	"Bombardment"
+	
+
+2	
+
+Skill ID	10222
+
+SKILL NAME	"Detonation Shot"
+	
+
+63	
+
+MONSTER 	"Cassandra"
+unit_master_id_awakened	15412
+skills(3)
+
+0	
+
+Skill ID	6802
+
+SKILL NAME	"Magic Arrow"
+	
+
+1	
+
+Skill ID	6807
+
+SKILL NAME	"Wedge Arrow"
+	
+
+2	
+
+Skill ID	6812
+
+SKILL NAME	"Hell Flame Arrow"
+	
+
+64	
+
+MONSTER 	"Cassie"
+unit_master_id_awakened	19315
+skills(3)
+
+0	
+
+Skill ID	10125
+
+SKILL NAME	"Cross Fire"
+	
+
+1	
+
+Skill ID	10130
+
+SKILL NAME	"Defeat Wild Dog"
+	
+
+2	
+
+Skill ID	10135
+
+SKILL NAME	"Devil's Bullet"
+	
+
+65	
+
+MONSTER 	"Celia"
+unit_master_id_awakened	21414
+skills(3)
+
+0	
+
+Skill ID	12204
+
+SKILL NAME	"Tempting Dream"
+	
+
+1	
+
+Skill ID	12209
+
+SKILL NAME	"Nightmare Melody"
+	
+
+2	
+
+Skill ID	12214
+
+SKILL NAME	"Dreamy Leader (Passive)"
+	
+
+66	
+
+MONSTER 	"Ceres"
+unit_master_id_awakened	14912
+skills(3)
+
+0	
+
+Skill ID	5802
+
+SKILL NAME	"Accurate Shot"
+	
+
+1	
+
+Skill ID	5807
+
+SKILL NAME	"Fire Arrow"
+	
+
+2	
+
+Skill ID	5812
+
+SKILL NAME	"Last Shot"
+	
+
+67	
+
+MONSTER 	"Chacha"
+unit_master_id_awakened	13215
+skills(3)
+
+0	
+
+Skill ID	4605
+
+SKILL NAME	"Attack!"
+	
+
+1	
+
+Skill ID	4610
+
+SKILL NAME	"Heal!"
+	
+
+2	
+
+Skill ID	4615
+
+SKILL NAME	"Attack! Attack!"
+	
+
+68	
+
+MONSTER 	"Chamie"
+unit_master_id_awakened	11214
+skills(3)
+
+0	
+
+Skill ID	2219
+
+SKILL NAME	"Will-o'-the-Wisp"
+	
+
+1	
+
+Skill ID	2209
+
+SKILL NAME	"Soul Snatcher"
+	
+
+2	
+
+Skill ID	2214
+
+SKILL NAME	"Reincarnate"
+	
+
+69	
+
+MONSTER 	"Chandra"
+unit_master_id_awakened	17411
+skills(3)
+
+0	
+
+Skill ID	8316
+
+SKILL NAME	"Crushing Blow"
+	
+
+1	
+
+Skill ID	8306
+
+SKILL NAME	"Defend"
+	
+
+2	
+
+Skill ID	8311
+
+SKILL NAME	"Trick of Water"
+	
+
+70	
+
+MONSTER 	"Charlotte"
+unit_master_id_awakened	16113
+skills(3)
+
+0	
+
+Skill ID	7203
+
+SKILL NAME	"Help Me, Teddy"
+	
+
+1	
+
+Skill ID	7208
+
+SKILL NAME	"Toy Knight"
+	
+
+2	
+
+Skill ID	7213
+
+SKILL NAME	"Wind Guardian Angel"
+	
+
+71	
+
+MONSTER 	"Chasun"
+unit_master_id_awakened	18313
+skills(3)
+
+0	
+
+Skill ID	9103
+
+SKILL NAME	"Graceful Touch"
+	
+
+1	
+
+Skill ID	9108
+
+SKILL NAME	"Amuse"
+	
+
+2	
+
+Skill ID	9113
+
+SKILL NAME	"Fallen Blossoms"
+	
+
+72	
+
+MONSTER 	"Cheryl"
+unit_master_id_awakened	10314
+skills(3)
+
+0	
+
+Skill ID	1304
+
+SKILL NAME	"Spirit Ball"
+	
+
+1	
+
+Skill ID	1309
+
+SKILL NAME	"Ignite"
+	
+
+2	
+
+Skill ID	1314
+
+SKILL NAME	"Holy Call"
+	
+
+73	
+
+MONSTER 	"Chichi"
+unit_master_id_awakened	13213
+skills(3)
+
+0	
+
+Skill ID	4603
+
+SKILL NAME	"Attack!"
+	
+
+1	
+
+Skill ID	4608
+
+SKILL NAME	"Dispel!"
+	
+
+2	
+
+Skill ID	4613
+
+SKILL NAME	"Attack! Heal!"
+	
+
+74	
+
+MONSTER 	"Chilling"
+unit_master_id_awakened	20711
+skills(3)
+
+0	
+
+Skill ID	11501
+
+SKILL NAME	"Trickster"
+	
+
+1	
+
+Skill ID	11506
+
+SKILL NAME	"Song of the Night Wind"
+	
+
+2	
+
+Skill ID	11511
+
+SKILL NAME	"The Cunning (Passive)"
+	
+
+75	
+
+MONSTER 	"Chiwu"
+unit_master_id_awakened	18612
+skills(3)
+
+0	
+
+Skill ID	9402
+
+SKILL NAME	"Yin Yang Attack"
+	
+
+1	
+
+Skill ID	9407
+
+SKILL NAME	"North Star's Wisdom"
+	
+
+2	
+
+Skill ID	9412
+
+SKILL NAME	"Sleeve Attack"
+	
+
+76	
+
+MONSTER 	"Chloe"
+unit_master_id_awakened	15312
+skills(3)
+
+0	
+
+Skill ID	6702
+
+SKILL NAME	"Absorb Mana"
+	
+
+1	
+
+Skill ID	6707
+
+SKILL NAME	"Fill"
+	
+
+2	
+
+Skill ID	6712
+
+SKILL NAME	"Fanatic"
+	
+
+77	
+
+MONSTER 	"Chow"
+unit_master_id_awakened	16611
+skills(3)
+
+0	
+
+Skill ID	7801
+
+SKILL NAME	"Dragon's Might"
+	
+
+1	
+
+Skill ID	7806
+
+SKILL NAME	"Justice"
+	
+
+2	
+
+Skill ID	7811
+
+SKILL NAME	"Flow (Passive)"
+	
+
+78	
+
+MONSTER 	"Chris"
+unit_master_id_awakened	15414
+skills(3)
+
+0	
+
+Skill ID	6804
+
+SKILL NAME	"Magic Arrow"
+	
+
+1	
+
+Skill ID	6809
+
+SKILL NAME	"Light Arrow"
+	
+
+2	
+
+Skill ID	6814
+
+SKILL NAME	"Critical Arrow"
+	
+
+79	
+
+MONSTER 	"Cichlid"
+unit_master_id_awakened	19613
+skills(3)
+
+0	
+
+Skill ID	10403
+
+SKILL NAME	"Mana Bubble"
+	
+
+1	
+
+Skill ID	10417
+
+SKILL NAME	"Air Shield"
+	
+
+2	
+
+Skill ID	10413
+
+SKILL NAME	"Crushed Hopes"
+	
+
+80	
+
+MONSTER 	"Clara"
+unit_master_id_awakened	13912
+skills(3)
+
+0	
+
+Skill ID	5502
+
+SKILL NAME	"Double Shot"
+	
+
+1	
+
+Skill ID	5507
+
+SKILL NAME	"Flame Shot"
+	
+
+2	
+
+Skill ID	5512
+
+SKILL NAME	"Wheel of Fire"
+	
+
+81	
+
+MONSTER 	"Cogma"
+unit_master_id_awakened	10212
+skills(3)
+
+0	
+
+Skill ID	1202
+
+SKILL NAME	"Fiery Spear"
+	
+
+1	
+
+Skill ID	1207
+
+SKILL NAME	"Heart Pierce"
+	
+
+2	
+
+Skill ID	1212
+
+SKILL NAME	"Triple Attack"
+	
+
+82	
+
+MONSTER 	"Colleen"
+unit_master_id_awakened	12112
+skills(3)
+
+0	
+
+Skill ID	3402
+
+SKILL NAME	"Blackout Kick"
+	
+
+1	
+
+Skill ID	3407
+
+SKILL NAME	"Deadly Dart"
+	
+
+2	
+
+Skill ID	3412
+
+SKILL NAME	"Fiery Dance"
+	
+
+83	
+
+MONSTER 	"Conrad"
+unit_master_id_awakened	16214
+skills(3)
+
+0	
+
+Skill ID	7404
+
+SKILL NAME	"Deadly Blow"
+	
+
+1	
+
+Skill ID	7409
+
+SKILL NAME	"Deadly Wave"
+	
+
+2	
+
+Skill ID	7414
+
+SKILL NAME	"Trade"
+	
+
+84	
+
+MONSTER 	"Copper"
+unit_master_id_awakened	16513
+skills(3)
+
+0	
+
+Skill ID	7703
+
+SKILL NAME	"Pulverize"
+	
+
+1	
+
+Skill ID	7708
+
+SKILL NAME	"Spinning Smash"
+	
+
+2	
+
+Skill ID	7713
+
+SKILL NAME	"Thunder Strike"
+	
+
+85	
+
+MONSTER 	"Craka"
+unit_master_id_awakened	17915
+skills(3)
+
+0	
+
+Skill ID	9005
+
+SKILL NAME	"Wound"
+	
+
+1	
+
+Skill ID	9010
+
+SKILL NAME	"Shatter"
+	
+
+2	
+
+Skill ID	9015
+
+SKILL NAME	"Summon Perpetrator"
+	
+
+86	
+
+MONSTER 	"Crane"
+unit_master_id_awakened	20813
+skills(3)
+
+0	
+
+Skill ID	11603
+
+SKILL NAME	"Hammer Punch"
+	
+
+1	
+
+Skill ID	11608
+
+SKILL NAME	"Taunt"
+	
+
+2	
+
+Skill ID	11613
+
+SKILL NAME	"Strange Reversible Reaction (Passive)"
+	
+
+87	
+
+MONSTER 	"Crawler"
+unit_master_id_awakened	20815
+skills(3)
+
+0	
+
+Skill ID	11605
+
+SKILL NAME	"Hammer Punch"
+	
+
+1	
+
+Skill ID	11610
+
+SKILL NAME	"Taunt"
+	
+
+2	
+
+Skill ID	11615
+
+SKILL NAME	"Rage Charge (Passive)"
+	
+
+88	
+
+MONSTER 	"Dagora"
+unit_master_id_awakened	10711
+skills(3)
+
+0	
+
+Skill ID	1801
+
+SKILL NAME	"Thrash"
+	
+
+1	
+
+Skill ID	1806
+
+SKILL NAME	"Crouch"
+	
+
+2	
+
+Skill ID	1811
+
+SKILL NAME	"Spirit's Will (Passive)"
+	
+
+89	
+
+MONSTER 	"Dagorr"
+unit_master_id_awakened	13713
+skills(3)
+
+0	
+
+Skill ID	5903
+
+SKILL NAME	"Uppercut"
+	
+
+1	
+
+Skill ID	5908
+
+SKILL NAME	"Cry of Battlefield"
+	
+
+2	
+
+Skill ID	5913
+
+SKILL NAME	"Flashing Strike"
+	
+
+90	
+
+MONSTER 	"Daharenos"
+unit_master_id_awakened	10811
+skills(3)
+
+0	
+
+Skill ID	1701
+
+SKILL NAME	"Icy Claw"
+	
+
+1	
+
+Skill ID	1706
+
+SKILL NAME	"Element Explosion"
+	
+
+2	
+
+Skill ID	1711
+
+SKILL NAME	"Shadow Defense"
+	
+
+91	
+
+MONSTER 	"Daphnis"
+unit_master_id_awakened	21112
+skills(3)
+
+0	
+
+Skill ID	11902
+
+SKILL NAME	"Serenity"
+	
+
+1	
+
+Skill ID	11907
+
+SKILL NAME	"Overwhelm"
+	
+
+2	
+
+Skill ID	11912
+
+SKILL NAME	"Hellfire"
+	
+
+92	
+
+MONSTER 	"Darion"
+unit_master_id_awakened	15214
+skills(3)
+
+0	
+
+Skill ID	6604
+
+SKILL NAME	"Slash Rocks"
+	
+
+1	
+
+Skill ID	6609
+
+SKILL NAME	"Slash Waves"
+	
+
+2	
+
+Skill ID	6614
+
+SKILL NAME	"Knighthood (Passive)"
+	
+
+93	
+
+MONSTER 	"Dark Angelmon"
+unit_master_id_awakened	14215
+skills(2)
+
+0	
+
+Skill ID	99001
+
+SKILL NAME	"Special Ingredient (Passive)"
+	
+
+1	
+
+Skill ID	99002
+
+SKILL NAME	"Best Ingredient (Passive)"
+	
+
+94	
+
+MONSTER 	"Dark King Angelmon"
+unit_master_id_awakened	18215
+skills(2)
+
+0	
+
+Skill ID	99005
+
+SKILL NAME	"Special Material (Passive)"
+	
+
+1	
+
+Skill ID	99006
+
+SKILL NAME	"Best Ingredient (Passive)"
+	
+
+95	
+
+MONSTER 	"Decamaron"
+unit_master_id_awakened	11115
+skills(3)
+
+0	
+
+Skill ID	2105
+
+SKILL NAME	"Shadow Shock"
+	
+
+1	
+
+Skill ID	2110
+
+SKILL NAME	"Dark Storm"
+	
+
+2	
+
+Skill ID	2115
+
+SKILL NAME	"Corrupt Armor (Passive)"
+	
+
+96	
+
+MONSTER 	"Delphoi"
+unit_master_id_awakened	11613
+skills(3)
+
+0	
+
+Skill ID	2618
+
+SKILL NAME	"Lightning Drop"
+	
+
+1	
+
+Skill ID	2608
+
+SKILL NAME	"Mind Shock"
+	
+
+2	
+
+Skill ID	2613
+
+SKILL NAME	"Spirit's Blessing"
+	
+
+97	
+
+MONSTER 	"Deva"
+unit_master_id_awakened	21914
+skills(3)
+
+0	
+
+Skill ID	12604
+
+SKILL NAME	"Crescent Moon Slash"
+	
+
+1	
+
+Skill ID	12609
+
+SKILL NAME	"Chakram Crush"
+	
+
+2	
+
+Skill ID	12614
+
+SKILL NAME	"Golden Opportunity (Passive)"
+	
+
+98	
+
+MONSTER 	"Devilmon"
+unit_master_id_awakened	15105
+skills(1)
+
+0	
+
+Skill ID	99004
+
+SKILL NAME	"Forbidden Ingredient (Passive)"
+	
+
+99	
+
+MONSTER 	"Devinodon"
+unit_master_id_awakened	17815
+skills(3)
+
+0	
+
+Skill ID	8705
+
+SKILL NAME	"Poisonous Teeth"
+	
+
+1	
+
+Skill ID	8710
+
+SKILL NAME	"Poisonous Whirlwind"
+	
+
+2	
+
+Skill ID	8715
+
+SKILL NAME	"Camouflage (Passive)"
+	
